@@ -36,7 +36,7 @@ namespace WinFormGitHubProjectSample
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(317, 314);
+            this.button1.Location = new System.Drawing.Point(317, 209);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(171, 96);
             this.button1.TabIndex = 0;
@@ -47,7 +47,7 @@ namespace WinFormGitHubProjectSample
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(240, 251);
+            this.textBox1.Location = new System.Drawing.Point(240, 146);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(321, 24);
             this.textBox1.TabIndex = 1;
