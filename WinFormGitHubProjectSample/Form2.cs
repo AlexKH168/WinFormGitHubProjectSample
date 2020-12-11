@@ -21,5 +21,10 @@ namespace WinFormGitHubProjectSample
         {
             MessageBox.Show("Hello GitHub. I'm a new User.");
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            textBox1.Text = comboBox1.Text;
+        }
     }
 }
